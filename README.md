@@ -12,4 +12,4 @@
 </br>
 
 ## 3.  Run
-![run_img](/timer/run_img.jpg)
+![run_img](run_img.jpg)
